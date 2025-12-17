@@ -5,7 +5,7 @@ Explore the movie catalog to find your next watch! Filter by genre & media type 
 ## How to Run
 1. `npm i`
 2. `npm run start`
-3. It should launch! Enjoy
+3. Open http://localhost:3000/MovieExplorer and enjoy!
 
 
 ### Tools Used:
